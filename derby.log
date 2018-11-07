@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 06 19:30:20 EET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0166-ea13-3b12-000005f6be68 
+on database directory C:\Users\hunor\Documents\NetBeansProjects\PhoneBook\sampleDB with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/hunor/Documents/NetBeansProjects/PhoneBook/dist/run875123911/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\hunor\Documents\NetBeansProjects\PhoneBook
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
